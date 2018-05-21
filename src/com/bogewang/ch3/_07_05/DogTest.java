@@ -18,7 +18,7 @@ public class DogTest {
         System.out.println(dog2.getName() + ":" + dog2.getSays());
 
         System.out.println(dog.equals(dog2));   //false
-        System.out.println(dog == dog2);        //µØÖ·±È½Ï; false
+        System.out.println(dog == dog2);        //åœ°å€æ¯”è¾ƒ; false
 
         dog2.setName("spot");
         dog2.setSays("ruff");

@@ -3,7 +3,7 @@ package com.bogewang.ch3._04_03;
 import org.junit.Test;
 
 /**
- * ·½·¨µÄ²ÎÊıµÄ´«µİ;
+ * æ–¹æ³•çš„å‚æ•°çš„ä¼ é€’;
  */
 public class CallMothed {
 
@@ -21,7 +21,7 @@ public class CallMothed {
         System.out.println(letter.c);
 
         /**
-         * ²âÊÔidea×Ô¶¯Éú³Éjson¸ñÊ½´®
+         * æµ‹è¯•ideaè‡ªåŠ¨ç”Ÿæˆjsonæ ¼å¼ä¸²
          */
         //language=JSON
         String jsonStr = "{\"name\":\"bogewang\",\"age\":\"18\"}";

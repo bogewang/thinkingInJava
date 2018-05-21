@@ -14,18 +14,18 @@ public class Assignment implements Serializable{
         chongQing.temperature = 25;
         chengDu.temperature = 33;
 
-        System.out.println("ÖØÇìÎÂ¶È:" + chongQing.temperature);
-        System.out.println("³É¶¼ÎÂ¶È:" + chengDu.temperature);
+        System.out.println("é‡åº†æ¸©åº¦:" + chongQing.temperature);
+        System.out.println("æˆéƒ½æ¸©åº¦:" + chengDu.temperature);
 
         chengDu = chongQing;
 
-        System.out.println("ÖØÇìÎÂ¶È:" + chongQing.temperature);
-        System.out.println("³É¶¼ÎÂ¶È:" + chengDu.temperature);
+        System.out.println("é‡åº†æ¸©åº¦:" + chongQing.temperature);
+        System.out.println("æˆéƒ½æ¸©åº¦:" + chengDu.temperature);
 
         chengDu.temperature = 28;
 
-        System.out.println("³É¶¼ÉıÎÂÁË,ÖØÇìÎÂ¶È:" + chongQing.temperature);
-        System.out.println("³É¶¼ÉıÎÂÁË,³É¶¼ÎÂ¶È:" + chengDu.temperature);
+        System.out.println("æˆéƒ½å‡æ¸©äº†,é‡åº†æ¸©åº¦:" + chongQing.temperature);
+        System.out.println("æˆéƒ½å‡æ¸©äº†,æˆéƒ½æ¸©åº¦:" + chengDu.temperature);
 
     }
 }
