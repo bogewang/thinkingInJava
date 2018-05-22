@@ -18,6 +18,11 @@ public class _02_08 {
     public static void main(String[] args) {
         System.out.println(m_1());
     }
+
+    /**
+     * finally 不能写return ,不然总是会执行finally里面的return方法;
+     * @return
+     */
     public static int m_1(){
         int i = 10;
         try{
