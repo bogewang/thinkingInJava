@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a05542b8-61cd-49e9-8979-30f10ef2cebb" name="Default" comment="1.vcs">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/bogewang/ch4/_03_02/RandomTest.java" />
+    <list default="true" id="a05542b8-61cd-49e9-8979-30f10ef2cebb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/thinkingInJava/com/bogewang/ch3/_07_05/DogTest.class" afterPath="$PROJECT_DIR$/out/production/thinkingInJava/com/bogewang/ch3/_07_05/DogTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bogewang/ch2/_02_08.java" afterPath="$PROJECT_DIR$/src/com/bogewang/ch2/_02_08.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bogewang/ch3/_04_02/Assignment.java" afterPath="$PROJECT_DIR$/src/com/bogewang/ch3/_04_02/Assignment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bogewang/ch3/_04_03/CallMothed.java" afterPath="$PROJECT_DIR$/src/com/bogewang/ch3/_04_03/CallMothed.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bogewang/ch3/_08_07/CoinTest.java" afterPath="$PROJECT_DIR$/src/com/bogewang/ch3/_08_07/CoinTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BitManipulation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BitManipulation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/bogewang/ch3/_11_11/BitManipulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="178">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RandomTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bogewang/ch4/_03_02/RandomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="390">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -363,7 +357,7 @@
       <workItem from="1526722601651" duration="3456000" />
       <workItem from="1526784093570" duration="1843000" />
       <workItem from="1526814158225" duration="625000" />
-      <workItem from="1527336450288" duration="2198000" />
+      <workItem from="1527336450288" duration="2221000" />
     </task>
     <task id="LOCAL-00001" summary="1.vcs">
       <created>1526722029826</created>
@@ -372,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526722029826</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.vcs">
+      <created>1527343278379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527343278379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -408,7 +409,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16281000" />
+    <option name="totallyTimeSpent" value="16304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -427,7 +428,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24329159" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -489,9 +490,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.vcs" />
     <MESSAGE value="1.生成25个随机整数,并比较前后的大小;" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.生成25个随机整数,并比较前后的大小;" />
+    <MESSAGE value="1.vcs" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.vcs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -835,20 +836,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bogewang/ch3/_11_11/BitManipulation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bogewang/ch4/_03_02/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bogewang/ch4/_03_02/RandomTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bogewang/ch3/_11_11/BitManipulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="178">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
