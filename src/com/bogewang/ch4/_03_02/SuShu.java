@@ -1,4 +1,4 @@
-package com.bogewang.ch4._03_04;
+package com.bogewang.ch4._03_02;
 
 import org.junit.Test;
 
