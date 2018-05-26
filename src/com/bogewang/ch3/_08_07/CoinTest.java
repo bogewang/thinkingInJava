@@ -11,7 +11,7 @@ public class CoinTest {
         Coin coin = new Coin();
 
         /**
-         * ÕıÃæÊıÍ³¼Æ;
+         * æ­£é¢æ•°ç»Ÿè®¡;
          */
         int count = 0;
         for (int i=0; i<THROWTIME; i++){
@@ -23,6 +23,6 @@ public class CoinTest {
         System.out.println(count);
         double result = count/THROWTIME;
 
-        System.out.println("ÈÓÁË" + THROWTIME +"´Î,ÕıÃæ³¯ÉÏµÄ¸ÅÂÊÎª:" + result);
+        System.out.println("æ‰”äº†" + THROWTIME +"æ¬¡,æ­£é¢æœä¸Šçš„æ¦‚ç‡ä¸º:" + result);
     }
 }

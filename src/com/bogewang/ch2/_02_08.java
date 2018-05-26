@@ -3,7 +3,7 @@ package com.bogewang.ch2;
 import org.junit.Test;
 
 /**
- * ÑéÖ¤staticĞŞÊÎµÄ³ÉÔ±±äÁ¿Ö»ÓĞÒ»¸öÊµÀı;
+ * éªŒè¯staticä¿®é¥°çš„æˆå‘˜å˜é‡åªæœ‰ä¸€ä¸ªå®ä¾‹;
  */
 public class _02_08 {
 
