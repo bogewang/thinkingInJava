@@ -3,7 +3,7 @@ package com.bogewang.ch4._08_00;
 import org.junit.Test;
 
 /**
- * 找出所有的4位数的吸血鬼数字;
+ *   ;
  */
 public class Test10 {
 
