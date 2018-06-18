@@ -14,5 +14,6 @@ public class FilterProcess {
         Apply.proecss(new FilterAdapter(new LowPass(1.0)), wareform);
         Apply.proecss(new FilterAdapter(new HighPass(2.0)), wareform);
         Apply.proecss(new FilterAdapter(new BandPass(3.0, 4.0)), wareform);
+        Apply.proecss(new FilterAdapter(new Exrcise11()), wareform);
     }
 }
