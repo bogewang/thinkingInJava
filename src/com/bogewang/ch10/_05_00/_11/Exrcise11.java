@@ -23,6 +23,8 @@ public class Exrcise11 {
     @Test
     public void test(){
 //        PDestintion destintion = getDestintion(); 不能向下转型;
+
+        
 //        destintion.toWhere();
     }
 }
