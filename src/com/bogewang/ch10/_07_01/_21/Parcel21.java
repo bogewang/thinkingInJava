@@ -9,14 +9,10 @@ public interface Parcel21 {
 
     void hello(Parcel21 parcel21);
 
-    class InnerClass implements Parcel21{
+    static class InnerClass{
         static void sayHello(){
             //hello(this);
         }
 
-        @Override
-        public void hello(Parcel21 parcel21) {
-            System.out.println("say Hello");
-        }
     }
 }
