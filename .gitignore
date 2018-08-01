@@ -2,5 +2,4 @@
 *.class
 
 # 忽略名称中末尾为ignore的文件夹
-*ignore/
-E:\develop\MyWorkSpace\myTest\thinkingInJava\HelloeProperties\.idea
+*idea/

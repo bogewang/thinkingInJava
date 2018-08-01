@@ -17,6 +17,7 @@ public class Test12 {
         ListIterator<Integer> integerListIterator = list1.listIterator();
         while (integerListIterator.hasNext()){
             integerListIterator.next();
+            System.out.println();
         }
 
         while (integerListIterator.hasPrevious()){
