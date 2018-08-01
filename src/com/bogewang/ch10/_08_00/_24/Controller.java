@@ -1,0 +1,29 @@
+/*
+ * Copyright (c) 2018.
+ * bogewang
+ */
+
+package com.bogewang.ch10._08_00._24;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Controller {
+    private List<Event> eventList = new ArrayList<Event>();
+
+    public void addEvent(Event c) {
+        eventList.add(c);
+    }
+
+    public void run(){
+        while (eventList.size()>0){
+            for (Event e : new ArrayList<Event>(eventList)){
+                if( e.ready()){
+                    System.out.println(e);
+                    e.action();
+                    eventList.remove(e);
+                }
+            }
+        }
+    }
+}
