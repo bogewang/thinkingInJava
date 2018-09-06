@@ -3,9 +3,9 @@
  * bogewang
  */
 
-package com.bogewang.ch13._06_01._11;
+package com.bogewang.ch13._06_04._11;
 
-import com.bogewang.ch13._06_01._10.Exr10;
+import com.bogewang.ch13._06_04._10.Exr10;
 import org.junit.Test;
 
 public class Exr11 {

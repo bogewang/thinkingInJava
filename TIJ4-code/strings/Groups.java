@@ -11,7 +11,7 @@ public class Groups {
     "Beware the Jabberwock, my son,\n" +
     "The jaws that bite, the claws that catch.\n" +
     "Beware the Jubjub bird, and shun\n" +
-    "The frumious Bandersnatch.";
+    "The frumious Bandersnatch";
   public static void main(String[] args) {
     Matcher m =
       Pattern.compile("(?m)(\\S+)\\s+((\\S+)\\s+(\\S+))$")

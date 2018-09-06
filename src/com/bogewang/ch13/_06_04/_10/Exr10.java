@@ -3,7 +3,7 @@
  * bogewang
  */
 
-package com.bogewang.ch13._06_01._10;
+package com.bogewang.ch13._06_04._10;
 
 import org.junit.Test;
 
