@@ -3,7 +3,7 @@
  * bogewang
  */
 
-package com.bogewang.ch14._02_00;
+package com.bogewang.ch14._02_00._01;
 
 public class Toy {
 

@@ -3,7 +3,7 @@
  * bogewang
  */
 
-package com.bogewang.ch14._02_00;
+package com.bogewang.ch14._02_00._02;
 
 
 import org.junit.Test;
@@ -17,13 +17,15 @@ public class ToyTest {
         " is interface ?[ " + clazz.isInterface() + "]" );
         print("simpleNmae : "+ clazz.getSimpleName());
         print("Canonical Name: " + clazz.getCanonicalName());
+        print("========================");
     }
 
     @Test
     public void test(){
         Class c = null;
         try {
-            c = Class.forName("com.bogewang.ch14._02_00.FancyToy");
+            c = Class.forName("com.bogewang.ch14._02_00._02.FancyToy");
+//            c = Class.forName("com.bogewang.ch14._02_00._02.Exr02");
         } catch (ClassNotFoundException e) {
             print("can't find FacyToy");
             System.exit(1);
