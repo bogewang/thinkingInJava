@@ -23,7 +23,7 @@ public class ToyTest {
     public void test(){
         Class c = null;
         try {
-            c = Class.forName("typeinfo.toys.FancyToy");
+            c = Class.forName("com.bogewang.ch14._02_00.FancyToy");
         } catch (ClassNotFoundException e) {
             print("can't find FacyToy");
             System.exit(1);
