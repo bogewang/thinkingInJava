@@ -3,7 +3,7 @@
  * bogewang
  */
 
-package com.bogewang.bigtext;
+package com.bogewang.others.bigtext;
 
 
 import org.junit.Test;

@@ -3,7 +3,7 @@
  * bogewang
  */
 
-package com.bogewang.SnowflakeIdGenerator;
+package com.bogewang.others.SnowflakeIdGenerator;
 
 public class SnowflakeIdGenerator {
     //================================================Algorithm's Parameter=============================================

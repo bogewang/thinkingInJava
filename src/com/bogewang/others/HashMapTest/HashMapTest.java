@@ -3,7 +3,7 @@
  * bogewang
  */
 
-package com.bogewang.HashMapTest;
+package com.bogewang.others.HashMapTest;
 
 import org.junit.Test;
 
