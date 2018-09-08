@@ -5,8 +5,6 @@ import org.junit.Test;
 import java.util.HashSet;
 import java.util.LinkedList;
 
-import static jdk.nashorn.internal.objects.Global.print;
-
 public class Test11 {
     @Test
     public void test(){
