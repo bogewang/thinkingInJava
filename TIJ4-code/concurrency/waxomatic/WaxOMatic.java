@@ -1,7 +1,12 @@
 // Basic task cooperation.
 package concurrency.waxomatic;
-import java.util.concurrent.*;
-import static net.mindview.util.Print.*;
+
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
+
+import static net.mindview.util.Print.print;
+import static net.mindview.util.Print.printnb;
 
 class Car {
   private boolean waxOn = false;
